@@ -1,1 +1,1 @@
-# reaction-core
+# Reaction Core
